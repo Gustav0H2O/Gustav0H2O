@@ -5,7 +5,11 @@
   <a href="mailto:newpersonal98@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%237aa2f7&size=25&center=true&vCenter=true&width=700&height=100&lines=Hi%2C+I'm+Gustavo+Heredia%21;Computer+Science+Student;Software+%26+Cross-Platform+Developer;Data+%26+Information+Manager;AI+Integration+%26+Automation+Specialist;Building+scalable+SaaS+solutions;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+
 
 <div align="center">
   <p>I'm an Associate Degree student in Computer Science at UPTJAA, advancing toward Software Engineering.</p>
