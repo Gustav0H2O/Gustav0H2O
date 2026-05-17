@@ -83,7 +83,7 @@
 <table align="center" width="100%" style="width: 100%; border-collapse: collapse; border: none;" border="0">
   <tr style="border: none;">
     <td align="center" width="50%" style="border: none; padding: 0;">
-      <img height="165" alt="Top Langs" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gustav0H2O&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_repo=Sua7Dev/factuflow" />
+      <img height="165" alt="Top Langs" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gustav0H2O&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_repo=Sua7Dev/factuflow&hide_forks=false" />
     </td>
     <td align="center" width="50%" style="border: none; padding: 0;">
       <img height="165" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gustav0H2O&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
