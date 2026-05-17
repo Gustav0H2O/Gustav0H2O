@@ -1,8 +1,16 @@
-<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<h3 align="center">Software Developer | Data & Information Manager | AI Integration Specialist</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a> <a href="https://www.facebook.com/share/18RYsAtjhS/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a> <a href = "mailto: newpersonal98@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
+<p align="center">
+  🚀 <strong>About Me:</strong><br />
+  • 🎓 <strong>Education:</strong> Associate Degree in Computer Science, currently advancing toward a Software Engineering degree.<br />
+  • 💻 <strong>Tech Focus:</strong> Passionate about software development, programming systems, and data analysis.<br />
+  • 🛠️ <strong>Methodology:</strong> Experienced in applying structured frameworks to design, build, and deploy technical ideas.<br />
+  • 🗣️ <strong>Soft Skills:</strong> Strong communication, technical writing, and collaborative problem-solving abilities.
+</p>
+<br />
 
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>
 
