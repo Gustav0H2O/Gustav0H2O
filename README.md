@@ -7,20 +7,20 @@
 
 <br/>
 
-<p align="center">
-  I'm an Associate Degree student in Computer Science at UPTJAA, advancing toward Software Engineering.
-</p>
-<p align="center">
-  I build efficient digital solutions, optimize workflows, and explore new tech. Here's more about me:
-</p>
+<div align="center">
+  <p>I'm an Associate Degree student in Computer Science at UPTJAA, advancing toward Software Engineering.</p>
+  <p>I build efficient digital solutions, optimize workflows, and explore new tech. Here's more about me:</p>
 
-- 🔭 **Development:** Building web solutions and cross-platform apps (mobile & desktop).
-- 🌐 **Backend & Cloud:** Specializing in API integration, server management, and cloud environments.
-- 📊 **Data & Info:** Focused on structuring, securing, and optimizing high-performance databases.
-- 🤖 **AI & Automation:** Integrating AI models and tools to build smarter development workflows.
-- 🌱 **Learning:** Constantly improving software architecture and systems optimization.
-- 👋 **Let's talk:** Ask me about cross-platform dev, APIs, databases, servers, or AI.
-- 😄 **Contact:** Reach me using the social badges links above.
+  <p>
+    🎯 <strong>Development:</strong> Building web solutions and cross-platform apps (mobile & desktop).<br />
+    🌐 <strong>Backend & Cloud:</strong> Specializing in API integration, server management, and cloud environments.<br />
+    📊 <strong>Data & Info:</strong> Focused on structuring, securing, and optimizing high-performance databases.<br />
+    🤖 <strong>AI & Automation:</strong> Integrating AI models and tools to build smarter development workflows.<br />
+    🌱 <strong>Learning:</strong> Constantly improving software architecture and systems optimization.<br />
+    👋 <strong>Let's talk:</strong> Ask me about cross-platform dev, APIs, databases, servers, or AI.<br />
+    😄 <strong>Contact:</strong> Reach me using the social badges links above.
+  </p>
+</div>
 
 <br/>
 
