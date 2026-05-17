@@ -80,16 +80,9 @@
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<table align="center" width="100%" style="width: 100%; border-collapse: collapse; border: none;" border="0">
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none; padding: 0;">
-      <img height="165" alt="Top Langs" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gustav0H2O&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_override=dart,python,javascript" />
-    </td>
-    <td align="center" width="50%" style="border: none; padding: 0;">
-      <img height="165" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gustav0H2O&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="185" alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gustav0H2O&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
 
 <p align="center" style="margin-top: 10px;">
   <img width="100%" max-width="850" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustav0H2O&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
