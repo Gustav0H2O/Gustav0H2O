@@ -1,6 +1,6 @@
-<h3 align="center">Software Developer | Data & Information Manager | AI Integration Specialist</h3>
+<h3 align="center">TSU en Informática | Soluciones web para negocios locales | APIs & Automatización</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/aksia/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a> 
+  <a href="https://www.linkedin.com/in/gustavo-heredia-01567a2b5/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a> 
   <a href="https://www.facebook.com/share/18RYsAtjhS/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" /></a> 
   <a href="mailto:newpersonal98@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
@@ -49,6 +49,32 @@
 
 <br/>
 
+<h2 align="center">🚀 Portafolio</h2>
+
+<h3 align="center">🍽️ Menús digitales con pedidos por WhatsApp</h3>
+<p align="center">Catálogos interactivos con carrito que envían el pedido <strong>ya calculado</strong> (desglose, total, dirección) al WhatsApp del negocio — sin comisiones de apps externas.<br/>
+<strong>Demo en vivo:</strong> <a href="https://demo-houhou.vercel.app">🥡 Hóu Hóu</a> · <a href="https://demo-moki.vercel.app">🐟 Moki</a> · <a href="https://kfe-paris-demo.vercel.app">☕ Kfé Paris</a></p>
+<p align="center">
+  <a href="https://demo-houhou.vercel.app"><img src="https://raw.githubusercontent.com/Gustav0H2O/menu-houhou/main/docs/01-hero.png" width="305" alt="Demo menú Hóu Hóu"></a>
+  <a href="https://demo-moki.vercel.app"><img src="https://raw.githubusercontent.com/Gustav0H2O/menu-moki/main/docs/01-hero.png" width="305" alt="Demo menú Moki"></a>
+  <a href="https://kfe-paris-demo.vercel.app"><img src="https://raw.githubusercontent.com/Gustav0H2O/menu-kfe-paris/main/docs/01-hero.jpg" width="305" alt="Demo menú Kfé Paris"></a>
+</p>
+
+<h3 align="center">Otros proyectos</h3>
+<p align="center">
+  🔧 <strong><a href="https://llave-d3me.onrender.com">llave</a></strong> — PWA para talleres mecánicos: diagnóstico guiado, catálogo de repuestos, órdenes de trabajo y cotizaciones.<br/>
+  🧾 <strong><a href="https://github.com/Gustav0H2O/apisync">FactuFlow API</a></strong> — API REST con sincronización offline-first (JWT, MySQL/LibSQL) para una app de facturación.<br/>
+  🏥 <strong><a href="https://github.com/Gustav0H2O/EPI-SYSTEM">EPI-SYSTEM</a></strong> — Sistema de vigilancia epidemiológica para el Hospital Dr. Felipe Guevara Rojas.
+</p>
+
+<h3 align="center">💼 ¿Trabajamos juntos?</h3>
+<p align="center">Menús digitales y landing pages para restaurantes y cafeterías · APIs y automatización · Rescates de web.<br/>
+<a href="mailto:newpersonal98@gmail.com"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-un%20email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/gustavo-heredia-01567a2b5/"><img src="https://img.shields.io/badge/LinkedIn-conectemos-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+<br/>
+
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
 <h3 align="center">Programming Languages</h3>
@@ -56,7 +82,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 <h3 align="center">Frameworks, Libraries & Databases</h3>
@@ -65,7 +93,9 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />&nbsp;
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-39B54A?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 <h3 align="center">DevOps, Version Control & Productivity</h3>
@@ -73,7 +103,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />&nbsp;
+  <img src="https://img.shields.io/badge/Render-1E1E1E?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
 <br/>
