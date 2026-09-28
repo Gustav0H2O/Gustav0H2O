@@ -49,16 +49,7 @@
 
 <br/>
 
-<h2 align="center">🚀 Portafolio</h2>
 
-<h3 align="center">🍽️ Menús digitales con pedidos por WhatsApp</h3>
-<p align="center">Catálogos interactivos con carrito que envían el pedido <strong>ya calculado</strong> (desglose, total, dirección) al WhatsApp del negocio — sin comisiones de apps externas.<br/>
-<strong>Demo en vivo:</strong> <a href="https://demo-houhou.vercel.app">🥡 Hóu Hóu</a> · <a href="https://demo-moki.vercel.app">🐟 Moki</a> · <a href="https://kfe-paris-demo.vercel.app">☕ Kfé Paris</a></p>
-<p align="center">
-  <a href="https://demo-houhou.vercel.app"><img src="https://raw.githubusercontent.com/Gustav0H2O/menu-houhou/main/docs/01-hero.png" width="305" alt="Demo menú Hóu Hóu"></a>
-  <a href="https://demo-moki.vercel.app"><img src="https://raw.githubusercontent.com/Gustav0H2O/menu-moki/main/docs/01-hero.png" width="305" alt="Demo menú Moki"></a>
-  <a href="https://kfe-paris-demo.vercel.app"><img src="https://raw.githubusercontent.com/Gustav0H2O/menu-kfe-paris/main/docs/01-hero.jpg" width="305" alt="Demo menú Kfé Paris"></a>
-</p>
 
 <h3 align="center">Otros proyectos</h3>
 <p align="center">
